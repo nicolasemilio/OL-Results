@@ -1,6 +1,6 @@
 # OL-Results
 This repository contains result tables and figures to complement the article entitled:
-"Focusing Search using Opposite Information: Learning Strategies for Ants Algorithms"
+"An Opposition-Inspired Learning Strategy to Focus the Search Process of Ant-based Algorithms"
 
 
 1) Matrices directory:

@@ -1,8 +1,6 @@
 # OL-Results
-This repository contains boxplots, result tables, convergence plots and figures to complement the article entitled:
+This repository contains boxplots, result tables and convergence plots to complement the article entitled:
 "An Opposition-Inspired Learning Strategy to Focus the Search Process of Ant Colony Optimization Algorithms"
-
-
 
 
 1) Tables directory:

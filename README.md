@@ -1,6 +1,5 @@
 # OL-Results
-This repository contains boxplots, result tables and convergence plots to complement the article entitled:
-"XXXXXX".
+This repository contains boxplots, result tables and convergence plots to complement the article about OL-Ant Knapsack
 
 
 1) Tables directory:
